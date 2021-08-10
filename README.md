@@ -7,4 +7,6 @@ Just edit the file and change the following variables
 
 Then just run the script (or copy and paste it into a powershell window)
 
+The script will proccess all files first then will give you a list of File (with it's path) with no Subtitles
+
 Note: I did not create the function this uses (I found it), I am using it for finding MKVs with no subtitle
