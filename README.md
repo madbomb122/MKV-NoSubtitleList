@@ -11,6 +11,6 @@ The script will proccess all files first then will give you a list of File (with
 
 Note: I did not create the function this uses (I found it), I am using it for finding MKVs with no subtitle
 
-Requirements to run:
-`Powershell`
+Requirements to run:  
+`Powershell`  
 `mkvinfo.exe` (from Mkvtoolnix)
